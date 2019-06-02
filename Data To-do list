@@ -1,0 +1,16 @@
+State the problems waiting to be solved in several parts:
+
+RAW DATA
+----------------
+  1.The income data are not under a same statistical rule between rural and urban (maybe just find 
+    some indicator for desposible income)
+  2.Consider the data for rental fee or housing costs in addition to CPI
+  
+DATA FORMAT
+----------------
+  1.Patent Data have a weird format
+    -try to change the monthly data into annual data
+    -maybe use some dimention reduction method to combine them to an INNO indicator(PCA or sth else)
+  2.
+DATA COMBINATION
+----------------
